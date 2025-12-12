@@ -1,0 +1,4 @@
+inputs:
+  nixpkgs-old:
+    url: github:NixOS/nixpkgs/nixos-25.05
+
